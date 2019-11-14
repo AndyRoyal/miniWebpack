@@ -155,6 +155,7 @@ export const c = " c.js  ";
 ![cmd-markdown-logo](https://user-gold-cdn.xitu.io/2019/11/14/16e65e3b1f5899bc?w=255&h=297&f=png&s=10259)
 
 ## 源码
+欢迎指教，帮忙点个 star
 [github](https://github.com/AndyRoyal/miniWebpack)
 
 
