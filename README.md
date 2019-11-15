@@ -164,4 +164,4 @@ export const c = " c.js  ";
 
  ### commonjs和import的区别：
 
-- commonjs 是 模块拷贝。而es6 import 是导入的模块的引用。
+
